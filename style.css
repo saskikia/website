@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background: palevioletred;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  border-bottom: white 5px dotted;
+  color: white;
+  font-size: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+  color: rgb(126, 125, 125);
+  margin: 25px auto;
+  width: 500px;
+  background: lightgray;
+  padding: 10px;
+}
+
+.columns {
+  display: flex;
+  margin: 15px auto;
+  width: 600px;
+}
+
+.column {
+  padding: 15px;
+  margin: 15px;
+  background: whitesmoke;
+}
+
+p {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+h1 {
+  margin: 10px;
+}
